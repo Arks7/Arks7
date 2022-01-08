@@ -11,13 +11,10 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
  
- <!-- 访客 -->
- <a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@Arks7?theme=rule34" width=330></a>
- 
  # 🤝 Social
-<!-- BiliBili和CSDN数据 -->
+<!-- BiliBili和访客数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/448488855/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
-  <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
+  <a href="https://space.bilibili.com/543721862/"><img src="https://stats.justsong.cn/api/bilibili/?id=543721862"/></a>
+  <a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@Arks7?theme=rule34" width=330></a>
 </div>
 
