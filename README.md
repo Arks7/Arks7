@@ -17,5 +17,5 @@
 
 | Stats | Steam |
 | ---------- | --------- |
-|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | 
+|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | ssss
 
