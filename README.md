@@ -17,5 +17,6 @@
 
 | Stats | Steam |
 | ---------- | --------- |
-|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | ssss
+|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | <!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
 
