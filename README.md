@@ -17,4 +17,6 @@
 
 | Stats | Steam |
 | ---------- | --------- |
-|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | <a href="https://github.com/CasterWx"><img style="height200px" src="https://steam-stat.vercel.app/api?profileName=FengirkG"></a>
+|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
