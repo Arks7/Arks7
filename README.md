@@ -10,7 +10,7 @@
  
  
  <!-- 访客 -->
- <a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@Arks7?theme=rule34" width=330>
+ <a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@Arks7?theme=rule34" width=330></a>
 
 | Stats | Steam |
 | ---------- | --------- |
