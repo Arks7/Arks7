@@ -8,7 +8,7 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Arks7/Arks7/master/img/github-contribution-grid-snake.svg" /></div>
  
  # 🤝 Social
 <!-- BiliBili和访客数据 -->
