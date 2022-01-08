@@ -7,12 +7,10 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
- 
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
  
  <!-- 访客 -->
  <a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@Arks7?theme=rule34" width=330></a>
-
-| Stats | Steam |
-| ---------- | --------- |
-|<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Arks7"></a> | 
 
